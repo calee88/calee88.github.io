@@ -9,4 +9,4 @@ description: >
 # github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
